@@ -15,7 +15,7 @@ Ele cumpre três papéis:
   1. REPRODUZ  — recalcula, do zero, todo número derivado registrado no índice.
   2. VERIFICA  — compara o resultado com os valores esperados (constante
                  ESPERADO), e acusa divergência. Serve de teste de regressão
-                 quando as planilhas forem rebaixadas para um período novo.
+                 quando uma reexportação trouxer valores diferentes.
   3. DOCUMENTA — cada função declara, no docstring, de qual arquivo parte,
                  que recorte aplica e qual afirmação do TCC sustenta.
 

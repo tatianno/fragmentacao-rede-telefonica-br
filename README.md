@@ -4,7 +4,7 @@ Dados e rotina de apuração usados na monografia **"Autenticação de Origem de
 
 ## Por que este repositório existe
 
-O capítulo de metodologia da monografia promete que o leitor pode recalcular cada número derivado do trabalho. **Essa promessa não é cumprível a partir da origem.** Os painéis de dados da Anatel são rebaixados para períodos novos, de modo que quem os exportar hoje não obtém a exportação de agosto de 2026, e sim outra, com valores diferentes. A página do conjunto de contratos de interconexão registra, por exemplo, "última alteração em um arquivo" em 1º de setembro de 2026, posterior à extração aqui depositada.
+O capítulo de metodologia da monografia promete que o leitor pode recalcular cada número derivado do trabalho. **A origem não garante essa promessa.** Os conjuntos continuam a mudar depois de exportados. A página do conjunto de contratos de interconexão não declara periodicidade de atualização e registra "última alteração em um arquivo" em **1º de setembro de 2026**, posterior à extração aqui depositada. Uma exportação feita depois dessa data pode divergir da que produziu os números do trabalho.
 
 Este repositório resolve isso guardando **os arquivos exatos que foram usados** e **a rotina que os processa**.
 
